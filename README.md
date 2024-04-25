@@ -30,3 +30,4 @@ Proper error handling and user feedback.
 Code quality, adherence to TypeScript best practices, and readability.
 Responsive and visually appealing user interface.
 # taller
+# taller
